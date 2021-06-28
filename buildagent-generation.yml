@@ -9,11 +9,11 @@ parameters:
 - name: variable_group
   displayName: Variable Group
   type: string
-  default: BuildAgents
+  default: DevOps-Packer
 - name: agent_pool
   displayName: Agent Pool
   type: string
-  default: CI Windows2019
+  default: Test2019Pool
 
 trigger: none
 
