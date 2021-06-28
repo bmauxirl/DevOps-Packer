@@ -6,7 +6,7 @@ parameters:
   values:
   - windows2019
   - ubuntu2004
-- name: variable_group
+- name: DevOps-Packer
   displayName: Variable Group
   type: string
   default: BuildAgents
