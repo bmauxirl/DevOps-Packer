@@ -13,7 +13,7 @@ parameters:
 - name: agent_pool
   displayName: Agent Pool
   type: string
-  default: 2019ScaleSet
+  default: 2019ScaleSetAuto
 
 trigger: none
 
